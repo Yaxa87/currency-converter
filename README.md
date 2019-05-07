@@ -29,10 +29,10 @@ The build is minified and the filenames include the hashes.
 
 ## Languages & tools
 
-[Create React App](https://github.com/facebook/create-react-app) To bootstrap the project.
-[React DatePicker](https://www.npmjs.com/package/react-datepicker) for dropdown calendar.
-[Axios](https://www.npmjs.com/package/axios) for handling async api calls.
-[Moment.js](https://www.npmjs.com/package/moment) for all Date operations.
-[Bootstrap](https://www.npmjs.com/package/bootstrap) for a bit of styling.
+[Create React App](https://github.com/facebook/create-react-app) To bootstrap the project.<br>
+[React DatePicker](https://www.npmjs.com/package/react-datepicker) for dropdown calendar.<br>
+[Axios](https://www.npmjs.com/package/axios) for handling async api calls.<br>
+[Moment.js](https://www.npmjs.com/package/moment) for all Date operations.<br>
+[Bootstrap](https://www.npmjs.com/package/bootstrap) for a bit of styling.<br>
 
 https://exchangeratesapi.io/ free API used for currency exchange rate data.
